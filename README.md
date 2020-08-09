@@ -1,4 +1,8 @@
+<img src="https://github-readme-stats.vercel.app/api?username=sergeymirasov&icon_color=0366d6&bg_color=fff&count_private=true&include_all_commits=true&hide_title=true&show_icons=true" alt="github stats for sergeymirasov" />
+
 ### Hi there 👋
+
+I'm a web developer from Russia
 
 <!--
 **sergeymirasov/sergeymirasov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br />
+
+![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/egoist-github-readme)
