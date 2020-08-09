@@ -4,6 +4,8 @@
 
 I'm a web developer from Russia
 
+My previous profile :point_right: [newbornfrontender](https://github.com/newbornfrontender)
+
 <!--
 **sergeymirasov/sergeymirasov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
