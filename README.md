@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 <br />
 
-![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/egoist-github-readme)
+![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/sergeymirasov-github-readme)
