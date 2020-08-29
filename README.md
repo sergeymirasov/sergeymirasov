@@ -6,6 +6,10 @@ I'm a web developer from Russia
 
 My previous profile :point_right: [newbornfrontender](https://github.com/newbornfrontender)
 
+### Hackathon victories
+
+<img href="/img/hackatones/tele2-solutions-days.jpg" />
+
 <!--
 **sergeymirasov/sergeymirasov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
