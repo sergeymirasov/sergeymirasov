@@ -8,7 +8,7 @@ My previous profile :point_right: [newbornfrontender](https://github.com/newborn
 
 ### Hackathon victories
 
-<img src="/img/hackatones/tele2-solutions-days.jpg" alt="Tele2 Solutions Days" />
+<img src="https://github.com/sergeymirasov/sergeymirasov/blob/master/img/hackatones/tele2-solutions-days.jpg" alt="Tele2 Solutions Days" />
 
 <!--
 **sergeymirasov/sergeymirasov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
